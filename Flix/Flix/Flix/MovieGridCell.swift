@@ -1,0 +1,15 @@
+//
+//  MovieGirdCell.swift
+//  Flix
+//
+//  Created by Brian Calabrese on 2/21/21.
+//
+
+import UIKit
+
+class MovieGridCell: UICollectionViewCell {
+    
+    
+   
+    @IBOutlet weak var posterView: UIImageView!
+}
